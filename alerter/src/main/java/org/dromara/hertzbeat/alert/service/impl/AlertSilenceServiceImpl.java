@@ -1,7 +1,7 @@
 package org.dromara.hertzbeat.alert.service.impl;
 
 import lombok.extern.slf4j.Slf4j;
-import org.dromara.hertzbeat.alert.dao.AlertSilenceDao;
+import org.dromara.hertzbeat.alert.dao.AlertSilenceDao;`
 import org.dromara.hertzbeat.alert.service.AlertSilenceService;
 import org.dromara.hertzbeat.common.cache.CacheFactory;
 import org.dromara.hertzbeat.common.cache.ICacheService;
